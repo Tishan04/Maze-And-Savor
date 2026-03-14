@@ -1,3 +1,6 @@
+//As per the lecturers request, the code is segmented in to three seperate files
+//Therefore this file holde the core logic of the game
+
 #include <stdio.h>
 #include <stdbool.h>
 #include <stdlib.h>
