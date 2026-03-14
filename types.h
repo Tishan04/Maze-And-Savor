@@ -1,4 +1,5 @@
-// types.h
+//As per the lecturers request, the code is segmented in to three seperate files
+//Therefore this file contains the variable declaration, typedef decleration and function declerations
 #ifndef TYPES_H
 #define TYPES_H
 
